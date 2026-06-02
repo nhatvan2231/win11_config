@@ -1,0 +1,25 @@
+2026-05-21 12:42 - test
+2026-05-21 13:20 - ahk cursor blinking
+2026-05-21 13:23 - nvim create first plugin
+2026-05-21 13:27 - nvim plugin template
+2026-05-21 15:05 - yasb button style border
+2026-05-22 08:30 - nvim panel resizing
+2026-05-22 08:45 - claude cowork ssh
+2026-05-22 09:23 - sftp config
+2026-05-22 09:51 - powershell7 line break coding
+2026-05-26 10:05 - fi
+2026-05-28 08:36 - https://console.cloud.google.com/bigquery/agents_hub;agentsHubTab=Agents;agentsPath=%2Fbq%2Fagents%2Fagent_3861186f-a3ae-487b-9567-98c2153fa7ce?project=ergon-agentspace
+2026-05-28 08:36 - https://console.cloud.google.com/bigquery/agents_hub;agentsHubTab=Agents;agentsPath=%2Fbq%2Fagents%2Fagent_3861186f-a3ae-487b-9567-98c2153fa7ce?project=ergon-agentspace
+2026-05-28 08:36 - https://lookerstudio.google.com/conversation?agent=projects/ergon-agentspace/locations/global/dataAgents/agent_3861186f-a3ae-487b-9567-98c2153fa7ce
+2026-05-28 10:29 - yasb notification
+2026-05-28 12:20 - sony xm6 ios gesture
+2026-05-28 14:36 - how bigquery works
+2026-05-28 15:07 - focaccia
+2026-05-29 08:10 - bigquery iframe
+2026-05-29 14:52 - https://lookerstudio.google.com/conversation?agent=projects/ergon-agentspace/locations/global/dataAgents/agent_3861186f-a3ae-487b-9567-98c2153fa7ce
+2026-05-29 16:05 - nerd font cheat sheet
+2026-06-01 12:19 - pwsh man command
+2026-06-02 09:30 - google bigquery agent
+2026-06-02 12:27 - win11 duplicate terminal
+2026-06-02 14:42 - yasb workspace order
+2026-06-02 15:28 - yasb github

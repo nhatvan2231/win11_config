@@ -1,0 +1,85 @@
+" Colorscheme
+colorscheme gruvbox
+
+" Enable folder name in title
+set title
+
+" Toggle visibility of dot files
+nnoremap . za
+
+" Reset Panes to Current Directory
+nnoremap zz :sync<CR>
+
+" Remapping redo to match vim command
+nnoremap r <C-R>
+
+" Pane Simplification
+nnoremap ; <C-W>
+
+" Shell shortcut
+nmap ! :sh!<CR>
+
+" Preview shortcut
+nnoremap V v
+nnoremap v :view<CR>
+
+" Mappings for faster renaming
+nnoremap I cw<c-a>
+nnoremap cc cw<c-u>
+nnoremap A cw
+
+" Allow vifm to perform file operations on its own
+set syscalls
+
+" Trash Directory
+" set trash
+" set trashdir='C:\$Recycle.Bin'
+
+" Show list of matches on tab completion in command-line mode
+set wildmenu
+
+" Display completions in a form of popup with descriptions of the matches
+set wildstyle=popup
+
+" Use increment searching (search while typing)
+set incsearch
+
+" Open files with default system programs
+filextype *.pdf,*.djvu
+	\ {Open with PDF reader}
+	"\ sumatrapdf > $null 2>&1 &
+	\ sumatrapdf &
+"filextype *.md
+"	\ {Open with markdown reader}
+"	\ glow &
+filextype *.png,*.jpeg,*.jpg,*.heic,*.svg
+	\ {Open with image viewer}
+	\ nsxiv -b > $null 2>&1 &
+filetype *
+	\ {Open with nvim}
+	\ nvim %f,
+	\ {Open with nvimpager}
+	"\ nvimpager -p %f
+
+nnoremap L :file nvimpager <CR>
+nnoremap <CR> :file nvimpager <CR>
+
+" Preview files
+fileviewer *.pdf
+	\ pdftotext %c -
+fileviewer *.png,*.jpeg,*.jpg,*.heic,*.svg
+	\ img2txt %c
+fileviewer *.tar,*.tar.gz
+	\ tar -tvf %c
+
+" Exiting
+"" Change working directory to last visited directory
+" command Q :execute quit
+"" Simple Exit
+nnoremap q :q <CR>
+
+" Ignore case when searching
+set ignorecase
+
+" Stop writing to vifminfo.json
+" set vifminfo=''

@@ -1,0 +1,45 @@
+" VIFM COLORS
+" gruvbox
+" based on: https://github.com/istib/dotfiles/blob/master/vifm/vifm-colors
+
+" Default = -1 = None, can be used for transparency or default color
+" Black = 0
+" Red = 1
+" Green = 2
+" Yellow = 3
+" Blue = 4
+" Magenta = 5
+" Cyan = 6
+" White = 7
+
+" STYLES
+" bold
+" underline
+" reverse or inverse
+" standout
+" none
+
+
+highlight clear
+
+highlight Win             cterm=none         ctermfg=default      ctermbg=none
+
+highlight TopLine         cterm=none         ctermfg=blue         ctermbg=none
+highlight TopLineSel      cterm=bold         ctermfg=yellow       ctermbg=none
+highlight StatusLine      cterm=bold,reverse ctermfg=white        ctermbg=black
+highlight Border          cterm=none         ctermfg=blue         ctermbg=none
+
+highlight Selected        cterm=bold         ctermfg=magenta      ctermbg=default
+highlight CurrLine        cterm=bold,reverse
+
+highlight WildMenu        cterm=bold,reverse ctermfg=blue         ctermbg=white
+highlight CmdLine         cterm=none         ctermfg=lightwhite   ctermbg=default
+highlight ErrorMsg        cterm=bold         ctermfg=red          ctermbg=default
+
+highlight Directory       cterm=bold         ctermfg=blue         ctermbg=default
+highlight Link            cterm=bold         ctermfg=cyan         ctermbg=default
+highlight BrokenLink      cterm=bold         ctermfg=red          ctermbg=default
+highlight Socket          cterm=bold         ctermfg=magenta      ctermbg=default
+highlight Device          cterm=bold         ctermfg=yellow       ctermbg=default
+highlight Fifo            cterm=none         ctermfg=yellow       ctermbg=default
+highlight Executable      cterm=bold         ctermfg=green        ctermbg=default

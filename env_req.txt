@@ -1,0 +1,9 @@
+ALACRITTY_CONFIG_FILE=C:\Users\nnvan\.config\alacritty\alacritty.toml
+ALACRITTY_LOG=C:\Users\nnvan\AppData\Local\Temp\Alacritty-6324.log
+EDITOR=nvim
+GIT_INSTALL_ROOT=C:\Users\nnvan\scoop\apps\git\current
+GLAZEWM_CONFIG_PATH=C:\Users\nnvan\.config\glzr\glazewm\config.yaml
+KOMOREBI_CONFIG_HOME=C:\Users\nnvan\.config\komorebi
+TMP=/tmp
+VIFM=C:\Users\nnvan\.config\vifm
+XDG_CONFIG_HOME=C:\Users\nnvan\.config

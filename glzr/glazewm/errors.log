@@ -1,0 +1,303 @@
+[2m2026-03-18T14:31:35.154485Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[8].bindings: invalid type: string "r'alt+r']", expected a sequence at line 237 column 15
+[2m2026-03-18T14:31:52.142356Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[8].bindings: invalid type: string "r'alt+r']", expected a sequence at line 237 column 15
+[2m2026-03-18T14:44:28.742993Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-03-23T14:42:37.860296Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Display device not found
+[2m2026-03-23T14:43:10.547733Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Display device not found
+[2m2026-03-25T13:19:24.804955Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.805538Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.805648Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.805766Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.805832Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.805935Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.806078Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.806150Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.806203Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.806301Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.806369Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.806432Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.806596Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.806979Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.807432Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.807780Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.808024Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.808219Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.808444Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.828016Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.828377Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.828767Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.829027Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.829175Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.829395Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.863879Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:24.876051Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-25T13:19:50.087394Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No workspace config available to activate workspace.
+[2m2026-03-25T13:23:43.266773Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No workspace config available to activate workspace.
+[2m2026-03-25T13:32:55.057424Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Display device not found
+[2m2026-03-25T13:45:34.387248Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[35]: Unknown key:  at line 336 column 5
+[2m2026-03-25T13:48:03.588050Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[34]: Unknown key: |- at line 334 column 5
+[2m2026-03-25T13:51:51.668328Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[35]: Unknown key: | at line 336 column 5
+[2m2026-03-25T13:52:22.115913Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[35]: Unknown key:  at line 336 column 5
+[2m2026-03-25T13:54:28.831924Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[35]: Unknown key:  at line 336 column 5
+[2m2026-03-25T16:49:05.596882Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[35]: Unknown key:  at line 336 column 5
+[2m2026-03-25T16:49:20.790523Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[35]: Unknown key:  at line 336 column 5
+[2m2026-03-27T13:06:19.987873Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-03-29T09:40:38.466927Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.468366Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.468631Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.469155Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.469466Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.469689Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.545592Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.545966Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.546449Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.547066Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.547356Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.582824Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.583389Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.584308Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.584602Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.584993Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.586230Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-03-29T09:40:38.624064Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-06T13:07:26.729766Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Platform error: Another instance of the application is already running.
+[2m2026-04-06T22:11:26.408647Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Display device not found
+[2m2026-04-13T16:43:17.463451Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Display device not found
+[2m2026-04-13T17:38:45.490536Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-13T17:38:45.836029Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-13T17:38:45.841039Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-13T17:38:45.841337Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-13T17:38:46.392492Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-13T17:38:46.408255Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-22T19:01:52.840876Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Display device not found
+[2m2026-04-24T21:49:17.641556Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Display device not found
+[2m2026-04-27T19:33:03.729622Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Display device not found
+[2m2026-04-27T19:33:22.178187Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:23.621834Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:24.205112Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:24.730711Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:25.226864Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:27.146989Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:46.326025Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:46.918263Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:47.412504Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:33:47.412935Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:47.830111Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:48.528851Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No monitor under cursor.
+[2m2026-04-27T19:33:50.634766Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:33:50.645215Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:33:50.867023Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:33:50.867718Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.972302Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.972596Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.972750Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.972844Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.973013Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.973123Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.973228Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.973610Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.975939Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.976850Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.977466Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.978388Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.978830Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:48.982784Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.032564Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.032896Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.033199Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.034980Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.035247Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.035727Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.037272Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.037509Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.037854Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.038040Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.038758Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.040185Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.045779Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.046026Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.046409Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.047046Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.049757Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.050262Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.050511Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.050717Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.051680Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.051881Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.051998Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.052212Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.052327Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.052418Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.052663Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.052934Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.053558Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.053794Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.053935Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.054237Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.054592Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.054786Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.054893Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.055114Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.055568Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.055944Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.056507Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.056885Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.057241Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.057913Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.058431Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.058746Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.059076Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.059316Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.059531Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.061450Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.062024Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.062199Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.062401Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.062528Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.062696Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.064970Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.065370Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.065535Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.065826Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.066919Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.067883Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.068164Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.068690Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.068855Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.069054Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.069173Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.069265Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.069635Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.069831Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.069937Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.070669Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.072997Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.073342Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.073678Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.073927Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.074104Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.074484Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.074791Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.239995Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.240461Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.240728Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.240925Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.241239Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.241475Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.567590Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.568009Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.568258Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.568387Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.573270Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.573610Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:45:49.574074Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-27T19:54:45.626038Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Display device not found
+[2m2026-04-30T13:38:39.245945Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-30T13:38:39.246592Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-30T13:38:39.802224Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-30T13:38:39.802913Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-30T13:38:39.804512Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-30T13:38:39.806639Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-30T13:38:39.807613Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-30T13:38:39.812605Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-30T13:38:39.813045Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-30T13:38:39.813641Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-04-30T13:38:39.814728Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-01T13:38:59.915613Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[35]: Unknown key:  at line 336 column 5
+[2m2026-05-01T13:47:03.773015Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: unexpected argument found
+ at line 5 column 21
+[2m2026-05-01T13:47:17.442388Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected ',' or ']' at line 7 column 5, while parsing a flow sequence at line 5 column 21
+[2m2026-05-01T13:49:43.961737Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 7 column 5, while parsing a block mapping at line 5 column 3
+[2m2026-05-01T13:51:25.470830Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected '-' indicator at line 8 column 26, while parsing a block collection at line 8 column 5
+[2m2026-05-01T13:52:29.580703Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 9 column 5, while parsing a block mapping at line 5 column 3
+[2m2026-05-01T13:52:41.890623Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 8 column 24, while parsing a block mapping at line 5 column 3
+[2m2026-05-01T13:52:54.565917Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 8 column 24, while parsing a block mapping at line 5 column 3
+[2m2026-05-01T13:53:09.699442Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 8 column 24, while parsing a block mapping at line 5 column 3
+[2m2026-05-01T13:56:20.084128Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: invalid type: string "focus workspace 1", expected a sequence at line 175 column 15
+[2m2026-05-01T13:56:50.487306Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: invalid type: string "focus --workspace 1", expected a sequence at line 175 column 15
+[2m2026-05-01T13:56:56.751939Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: invalid type: string "focus --workspace 1", expected a sequence at line 175 column 15
+[2m2026-05-01T13:57:20.629298Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `match` at line 174 column 5
+[2m2026-05-01T13:59:01.695727Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands[0]: invalid type: sequence, expected a string at line 6 column 7
+[2m2026-05-01T13:59:12.435815Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands[1]: invalid type: map, expected a string at line 7 column 7
+[2m2026-05-11T14:45:52.115626Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+[2m2026-05-11T21:20:55.589435Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1]: missing field `commands` at line 202 column 5
+[2m2026-05-11T21:21:27.779077Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1]: missing field `commands` at line 202 column 5
+[2m2026-05-11T21:23:36.286272Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].match: invalid type: map, expected a sequence at line 204 column 7
+[2m2026-05-11T21:23:57.205051Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1]: missing field `commands` at line 202 column 5
+[2m2026-05-11T21:24:10.012706Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1]: missing field `commands` at line 202 column 5
+[2m2026-05-11T21:24:20.643216Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: unrecognized subcommand
+ at line 202 column 15
+[2m2026-05-11T21:25:03.150619Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: unrecognized subcommand
+ at line 203 column 15
+[2m2026-05-18T14:56:49.290734Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[20]: duplicate field `bindings` at line 311 column 5
+[2m2026-05-18T15:33:56.585555Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected '-' indicator at line 313 column 3, while parsing a block collection at line 227 column 3
+[2m2026-05-18T15:34:16.225916Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected '-' indicator at line 313 column 3, while parsing a block collection at line 227 column 3
+[2m2026-05-18T15:34:45.895642Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected '-' indicator at line 313 column 3, while parsing a block collection at line 227 column 3
+[2m2026-05-18T15:34:56.916691Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected '-' indicator at line 313 column 3, while parsing a block collection at line 227 column 3
+[2m2026-05-18T15:35:23.522016Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '$env:USERPROFILE'. Make sure the program exists and is accessible from your shell. Error: The operation was canceled by the user. (0x800704C7)
+[2m2026-05-18T15:41:42.447106Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '$env:USERPROFILE'. Make sure the program exists and is accessible from your shell. Error: The operation was canceled by the user. (0x800704C7)
+[2m2026-05-18T15:43:11.090940Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '$env:USERPROFILE'. Make sure the program exists and is accessible from your shell. Error: The operation was canceled by the user. (0x800704C7)
+[2m2026-05-18T15:43:44.701415Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Shell exec failed for '"$env:USERPROFILE"': command doesn't have an ending `"`.
+[2m2026-05-20T19:58:49.511558Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-20T19:58:49.512949Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-20T19:58:49.513354Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-21T15:44:39.853608Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[2].commands: invalid value for one of the arguments
+ at line 208 column 15
+[2m2026-05-29T19:50:06.974484Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:06.995171Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.009844Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.010439Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.023837Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.024397Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.024809Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.025778Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.026430Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.045260Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.046536Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.047436Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.047944Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.107752Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.108283Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.108621Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.108842Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.109178Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.109406Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.109590Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.109930Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.139204Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.139462Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.139802Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.140167Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.140475Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.140920Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.173597Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.173987Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.174342Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.174613Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.174824Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.199109Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.200173Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.200697Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.202071Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.219128Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.219689Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.220049Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.220277Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.220941Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.221292Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.221526Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.221728Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.244858Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.245282Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.245501Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.246340Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.246630Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.246793Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.247068Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.276181Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.276658Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.277167Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.278177Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.278473Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.304048Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.304383Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2026-05-29T19:50:07.304794Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
