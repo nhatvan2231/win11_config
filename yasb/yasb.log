@@ -5935,3 +5935,180 @@ Exception: Weather response error 504: UnknownServerError 499.
 2026-06-02 15:39:48,454 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
 2026-06-02 15:39:48,538 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
 2026-06-02 15:39:48,543 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-02 15:49:47,591 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 15:49:47.591306
+2026-06-02 15:59:47,613 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 15:59:47.613378
+2026-06-02 16:09:47,617 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 16:09:47.617723
+2026-06-02 16:19:47,616 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 16:19:47.616112
+2026-06-02 16:29:47,652 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 16:29:47.652786
+2026-06-02 16:39:47,641 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 16:39:47.641129
+2026-06-02 16:49:47,675 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 16:49:47.675873
+2026-06-02 16:59:47,796 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 16:59:47.795843
+2026-06-02 17:09:47,760 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 17:09:47.760014
+2026-06-02 17:19:47,713 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 17:19:47.713806
+2026-06-02 17:19:57,659 [INFO] [MainThread] [root/bar_manager.py:83]: Screens updated. Re-initialising all bars.
+2026-06-02 17:19:57,659 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2026-06-02 17:19:57,764 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-02 17:19:57,765 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-06-02 17:19:57,997 [INFO] [MainThread] [root/bar_manager.py:83]: Screens updated. Re-initialising all bars.
+2026-06-02 17:19:57,997 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2026-06-02 17:19:58,108 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-02 17:19:58,108 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-06-02 17:19:58,182 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar status-bar on screen \\.\DISPLAY1
+2026-06-02 17:19:58,673 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-06-02 17:19:58,674 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping SystemEventListener...
+2026-06-02 17:19:59,306 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-06-02 17:19:59,307 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-06-02 17:19:59,308 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-02 17:19:59,366 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-06-02 17:19:59,367 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-06-02 17:19:59,367 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-02 17:19:59,367 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-06-02 17:19:59,386 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-06-02 17:19:59,387 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-06-02 17:19:59,726 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-02 17:20:01,705 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-06-02 17:20:01,708 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-06-02 17:20:01,710 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\nnvan\.config\yasb
+2026-06-02 17:20:01,711 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-02 17:20:03,250 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 17:20:03.250018
+2026-06-02 17:20:06,480 [INFO] [MainThread] [root/bar_manager.py:83]: Screens updated. Re-initialising all bars.
+2026-06-02 17:20:06,481 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2026-06-02 17:20:06,591 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-02 17:20:06,591 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-06-02 17:20:06,695 [INFO] [MainThread] [root/bar_manager.py:83]: Screens updated. Re-initialising all bars.
+2026-06-02 17:20:06,695 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2026-06-02 17:20:06,798 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-02 17:20:06,799 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-06-02 17:20:07,329 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-06-02 17:20:07,330 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping SystemEventListener...
+2026-06-02 17:20:07,903 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-06-02 17:20:07,903 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-06-02 17:20:07,904 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-02 17:20:07,904 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-06-02 17:20:08,025 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-06-02 17:20:08,026 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-06-02 17:20:08,026 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-02 17:20:08,027 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-06-02 17:20:09,029 [INFO] [MainThread] [root/main.py:72]: Previous instance exited, continuing startup.
+2026-06-02 17:20:09,100 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-06-02 17:20:09,102 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-06-02 17:20:09,361 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-02 17:20:09,430 [ERROR] [MainThread] [root/main.py:69]: Timeout waiting for previous instance. Aborting start.
+2026-06-02 17:20:13,380 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-06-02 17:20:13,381 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-06-02 17:20:13,383 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\nnvan\.config\yasb
+2026-06-02 17:20:13,384 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-02 17:20:15,374 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 17:20:15.374429
+2026-06-02 17:20:18,113 [ERROR] [MainThread] [root/main.py:69]: Timeout waiting for previous instance. Aborting start.
+2026-06-02 17:30:11,331 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 17:30:11.331246
+2026-06-02 17:40:11,396 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 17:40:11.396064
+2026-06-02 17:50:11,361 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 17:50:11.361637
+2026-06-02 18:00:11,458 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 18:00:11.458322
+2026-06-02 18:10:11,351 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 18:10:11.351258
+2026-06-02 18:20:11,334 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 18:20:11.334749
+2026-06-02 18:30:11,334 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 18:30:11.334757
+2026-06-02 18:40:11,392 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 18:40:11.391976
+2026-06-02 18:50:11,347 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 18:50:11.347597
+2026-06-02 19:00:11,456 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 19:00:11.456181
+2026-06-02 19:10:11,405 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 19:10:11.405732
+2026-06-02 19:20:11,438 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 19:20:11.438814
+2026-06-02 19:30:11,417 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 19:30:11.417373
+2026-06-02 19:40:11,450 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 19:40:11.449934
+2026-06-02 19:50:11,419 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 19:50:11.419889
+2026-06-02 20:00:11,433 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 20:00:11.433128
+2026-06-02 20:10:11,438 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 20:10:11.438447
+2026-06-02 20:20:11,452 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 20:20:11.452688
+2026-06-02 20:30:11,382 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 20:30:11.382542
+2026-06-02 20:40:11,511 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 20:40:11.510998
+2026-06-02 20:50:11,475 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 20:50:11.474976
+2026-06-02 21:00:11,411 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 21:00:11.411828
+2026-06-02 21:10:11,466 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 21:10:11.466635
+2026-06-02 21:20:11,484 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 21:20:11.484416
+2026-06-02 21:30:12,478 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 21:30:12.478560
+2026-06-02 21:40:11,472 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 21:40:11.472557
+2026-06-02 21:50:11,451 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 21:50:11.451506
+2026-06-02 22:00:11,454 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 22:00:11.454677
+2026-06-02 22:10:11,489 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 22:10:11.489010
+2026-06-02 22:20:11,553 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 22:20:11.553896
+2026-06-02 22:30:11,443 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 22:30:11.443854
+2026-06-02 22:40:11,432 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 22:40:11.432167
+2026-06-02 22:50:11,504 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 22:50:11.504192
+2026-06-02 23:00:11,470 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 23:00:11.470462
+2026-06-02 23:10:11,542 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 23:10:11.542645
+2026-06-02 23:20:11,444 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 23:20:11.444074
+2026-06-02 23:30:11,524 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 23:30:11.524194
+2026-06-02 23:40:11,544 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 23:40:11.544434
+2026-06-02 23:50:11,479 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-02 23:50:11.479749
+2026-06-03 00:00:11,452 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 00:00:11.452809
+2026-06-03 00:10:12,534 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 00:10:12.534202
+2026-06-03 00:20:11,565 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 00:20:11.565388
+2026-06-03 00:30:11,478 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 00:30:11.478136
+2026-06-03 00:40:11,594 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 00:40:11.594524
+2026-06-03 00:50:11,575 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 00:50:11.575482
+2026-06-03 01:00:11,562 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 01:00:11.562233
+2026-06-03 01:10:11,547 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 01:10:11.547712
+2026-06-03 01:20:11,654 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 01:20:11.654542
+2026-06-03 01:30:11,548 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 01:30:11.548496
+2026-06-03 01:40:11,574 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 01:40:11.574095
+2026-06-03 01:50:11,532 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 01:50:11.532019
+2026-06-03 02:00:11,538 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 02:00:11.538030
+2026-06-03 02:10:11,563 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 02:10:11.563799
+2026-06-03 02:20:11,513 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 02:20:11.513400
+2026-06-03 02:30:11,531 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 02:30:11.531066
+2026-06-03 02:40:11,607 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 02:40:11.607885
+2026-06-03 02:50:11,720 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 02:50:11.719960
+2026-06-03 03:00:11,621 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 03:00:11.621943
+2026-06-03 03:10:11,628 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 03:10:11.628846
+2026-06-03 03:20:11,734 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 03:20:11.734019
+2026-06-03 03:30:11,565 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 03:30:11.565701
+2026-06-03 03:40:11,651 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 03:40:11.651231
+2026-06-03 03:50:11,573 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 03:50:11.573548
+2026-06-03 04:00:11,550 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 04:00:11.550954
+2026-06-03 04:10:11,622 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 04:10:11.621718
+2026-06-03 04:20:11,569 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 04:20:11.569126
+2026-06-03 04:30:11,640 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 04:30:11.640198
+2026-06-03 04:40:11,681 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 04:40:11.681222
+2026-06-03 04:50:11,878 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 04:50:11.877966
+2026-06-03 05:00:11,600 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 05:00:11.599913
+2026-06-03 05:10:11,641 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 05:10:11.640955
+2026-06-03 05:20:11,767 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 05:20:11.767753
+2026-06-03 05:30:11,647 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 05:30:11.647592
+2026-06-03 05:40:11,613 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 05:40:11.613181
+2026-06-03 05:50:11,795 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 05:50:11.795387
+2026-06-03 06:00:11,641 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 06:00:11.641907
+2026-06-03 06:10:11,615 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 06:10:11.614986
+2026-06-03 06:20:11,636 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 06:20:11.636491
+2026-06-03 06:30:11,662 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 06:30:11.662955
+2026-06-03 06:40:11,631 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 06:40:11.631754
+2026-06-03 06:50:11,627 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 06:50:11.627598
+2026-06-03 07:00:11,702 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 07:00:11.702434
+2026-06-03 07:10:11,678 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 07:10:11.678496
+2026-06-03 07:20:11,665 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 07:20:11.665162
+2026-06-03 07:30:11,651 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 07:30:11.651213
+2026-06-03 07:40:11,674 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 07:40:11.674089
+2026-06-03 07:50:11,686 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 07:50:11.686252
+2026-06-03 08:00:11,684 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 08:00:11.684046
+2026-06-03 08:03:27,157 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:03:27,168 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:03:27,173 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:10:11,719 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 08:10:11.719344
+2026-06-03 08:13:14,776 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:13:14,780 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:13:14,784 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:15:09,564 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:15:09,584 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:15:09,592 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:18:00,999 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:18:01,035 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:18:01,041 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:20:11,764 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 08:20:11.764135
+2026-06-03 08:30:11,773 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 08:30:11.773198
+2026-06-03 08:40:11,749 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 08:40:11.749226
+2026-06-03 08:50:11,740 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 08:50:11.740379
+2026-06-03 08:55:14,791 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:55:26,848 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:55:26,854 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:59:36,194 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:59:36,282 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 08:59:36,286 [DEBUG] [MainThread] [root/utilities.py:205]: Failed to get version info for C:\Users\nnvan\scoop\apps\alacritty\0.17.0\alacritty.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-06-03 09:00:11,734 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-03 09:00:11.733982
