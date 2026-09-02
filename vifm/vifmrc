@@ -55,6 +55,9 @@ filextype *.pdf,*.djvu
 filextype *.png,*.jpeg,*.jpg,*.heic,*.svg
 	\ {Open with image viewer}
 	\ nsxiv -b > $null 2>&1 &
+filextype *.xlsx,*.xls
+	\ {Open with excel}
+	\ start excel &
 filetype *
 	\ {Open with nvim}
 	\ nvim %f,

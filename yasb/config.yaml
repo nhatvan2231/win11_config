@@ -36,6 +36,7 @@ bars:
         - "glazewm_workspaces"
       right:
         - "notifications"
+        - "wifi"
         - "media"
         - "volume"
         - "clock"
@@ -130,20 +131,6 @@ widgets:
       callbacks:
         on_left: "toggle_calendar"
         on_right: "do_nothing"
-  taskbar:
-    type: "yasb.taskbar.TaskbarWidget"
-    options:
-      icon_size: 16
-      animation: true
-      ignore_apps:
-        processes: []
-        titles: []
-        classes: []
-      container_padding:
-        top: 0
-        left: 8
-        bottom: 0
-        right: 8
   glazewm_workspaces:
     type: "glazewm.workspaces.GlazewmWorkspacesWidget"
     options:
@@ -214,28 +201,16 @@ widgets:
   active_window:
     type: "yasb.active_window.ActiveWindowWidget"
     options:
-      label: "{win[process][name]}"
+      #label: "{win[process][name]}"
       label_alt: ""
       label_no_window: ""
       label_icon: true
-      label_icon_size: 14
-      max_length: 40
+      label_icon_size: 12
+      max_length: 20
       max_length_ellipsis: "..."
-      monitor_exclusive: false
+      monitor_exclusive: true
       callbacks:
         on_left: "do_nothing"
-  language:
-    type: "yasb.language.LanguageWidget"
-    options:
-      label: "<span>\uf11c</span> {lang[language_code]}"
-      label_alt: "{lang[full_name]}"
-      update_interval: 1
-      callbacks:
-        on_left: "do_nothing"
-        on_middle: "do_nothing"
-        on_right: "do_nothing"
-      container_padding:
-        bottom: 1
   memory:
     type: "yasb.memory.MemoryWidget"
     options:
@@ -260,3 +235,16 @@ widgets:
         - "\u2586" # 60%
         - "\u2587" # 70%
         - "\u2588" # 80%+
+  wifi:
+    type: "yasb.wifi.WifiWidget"
+    options:
+      label: "<span>{wifi_icon}</span> {ip_addr}"
+      update_interval: 5000
+      get_exact_wifi_strength: false  # Optional. Will require location access permission if true.
+      wifi_icons: [
+        "\udb82\udd2e",  # Icon for 0% strength
+        "\udb82\udd1f",  # Icon for 1-24% strength
+        "\udb82\udd22",  # Icon for 25-49% strength
+        "\udb82\udd25",  # Icon for 50-74% strength
+        "\udb82\udd28"   # Icon for 75-100% strength
+      ]

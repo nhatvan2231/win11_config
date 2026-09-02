@@ -1,6 +1,7 @@
 [terminal]
 shell = {
 	program = "pwsh -NoLogo",
+	#args = "-NoLogo"
 }
 
 [general]
@@ -24,7 +25,3 @@ vi_mode_style = { shape = "Underline",  blinking = "On" }
 [mouse]
 hide_when_typing = true
 
-#[[keyboard.bindings]]
-#key = "Return"
-#mods = "Shift"
-#chars = "\u001B\r"

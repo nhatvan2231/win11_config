@@ -5,7 +5,7 @@ general:
   startup_commands: 
     - 'shell-exec yasb'
     - 'focus --workspace 7'
-    - 'focus --workspace +'
+    - 'focus --workspace 12'
     - 'focus --workspace 3'
 
 
@@ -43,7 +43,7 @@ general:
   # effect if `hide_method: 'hide'`.
   # - 'true': Show all windows (regardless of workspace).
   # - 'false': Only show windows from the currently shown workspaces.
-  show_all_in_taskbar: false
+  show_all_in_taskbar: true
 
 gaps:
   # Whether to scale the gaps with the DPI of the monitor.
@@ -72,6 +72,7 @@ window_effects:
     # cause rendering issues for some applications.
     hide_title_bar:
       enabled: true
+      hide_border: true
 
     # Change the corner style of the window's frame.
     # ** Exclusive to Windows 11 due to API limitations.
@@ -85,7 +86,7 @@ window_effects:
       enabled: false
       # Can be something like '95%' or '0.95' for slightly transparent windows.
       # '0' or '0%' is fully transparent (and, by consequence, unfocusable).
-      opacity: '95%'
+      opacity: '99%'
 
   # Visual effects to apply to non-focused windows.
   other_windows:
@@ -100,6 +101,7 @@ window_effects:
     transparency:
       enabled: true
       opacity: '95%'
+
 
 window_behavior:
   # New windows are created in this state whenever possible.
@@ -164,15 +166,18 @@ workspaces:
     bind_to_monitor: 2
     keep_alive: true
 
-  - name: '0'
+  - name: '10'
+    display_name: '0'
     bind_to_monitor: 2
     keep_alive: true
 
-  - name: '-'
+  - name: '11'
+    display_name: '-'
     bind_to_monitor: 0
     keep_alive: true
     
-  - name: '+'
+  - name: '12'
+    display_name: '+'
     bind_to_monitor: 0
     keep_alive: true
 
@@ -294,7 +299,7 @@ keybindings:
     bindings: ['alt+m']
 
   # Close focused window.
-  - commands: ['close']
+  - commands: ['close', 'toggle-tiling-direction']
     bindings: ['alt+q']
 
   # Kill GlazeWM process safely.
@@ -313,7 +318,8 @@ keybindings:
   # `shell-exec %ProgramFiles%/Git/git-bash.exe` to start Windows
   # Terminal and Git Bash respectively.
   #- commands: ['shell-exec wezterm-gui.exe', 'toggle-tiling-direction']
-  - commands: ['shell-exec alacritty --config-file C:/Users/nnvan/.config/alacritty/alacritty.toml', 'toggle-tiling-direction']
+  #- commands: ['shell-exec alacritty --config-file C:/Users/nnvan/.config/alacritty/alacritty.toml', 'toggle-tiling-direction']
+  - commands: ['shell-exec alacritty --config-file %ALACRITTY_CONFIG_FILE%', 'toggle-tiling-direction']
   #- commands: ['shell-exec $env:USERPROFILE']
     bindings: ['alt+enter']
 
@@ -346,11 +352,11 @@ keybindings:
     bindings: ['alt+8']
   - commands: ['focus --workspace 9']
     bindings: ['alt+9']
-  - commands: ['focus --workspace 0']
+  - commands: ['focus --workspace 10']
     bindings: ['alt+0']
-  - commands: ['focus --workspace -']
+  - commands: ['focus --workspace 11']
     bindings: ["alt+-"]
-  - commands: ['focus --workspace +']
+  - commands: ['focus --workspace 12']
     bindings: ["alt+="]
 
   # Move the focused window's parent workspace to a monitor in a given
@@ -383,11 +389,11 @@ keybindings:
     bindings: ['Lalt+shift+8']
   - commands: ['move --workspace 9', 'focus --workspace 9']
     bindings: ['Lalt+shift+9']
-  - commands: ['move --workspace 0', 'focus --workspace 0']
+  - commands: ['move --workspace 10', 'focus --workspace 10']
     bindings: ['Lalt+shift+0']
-  - commands: ['move --workspace -', 'focus --workspace -']
+  - commands: ['move --workspace 11', 'focus --workspace 11']
     bindings: ['Lalt+shift+-']
-  - commands: ['move --workspace +', 'focus --workspace +']
+  - commands: ['move --workspace 12', 'focus --workspace 12']
     bindings: ['Lalt+shift+=']
 
   # Move focused window to a workspace next and prev.
@@ -397,5 +403,8 @@ keybindings:
     bindings: ['Ralt+shift+l']
 
   # open firefox
-  - commands: ['shell-exec C:\Users\nnvan\.config\glzr\script\firefox_search.ahk', 'toggle-tiling-direction']
-    bindings: ['alt+n']
+  - commands: ['shell-exec --hide-window %XDG_CONFIG_HOME%\glzr\script\firefox_search.ahk -new-window', 'toggle-tiling-direction']
+    bindings: ['Lalt+n']
+  # open firefox
+  - commands: ['shell-exec --hide-window %XDG_CONFIG_HOME%\glzr\script\firefox_search.ahk -private-window', 'toggle-tiling-direction']
+    bindings: ['Ralt+n']

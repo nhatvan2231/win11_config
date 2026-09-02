@@ -1,4 +1,6 @@
 #SingleInstance Force
+#Requires AutoHotkey v2.0
+
 
 myGui := Gui("+AlwaysOnTop -Caption +Border", "FirefoxSearch")
 myGui.BackColor := "282828"        ; gruvbox dark bg
@@ -17,12 +19,15 @@ search.OnEvent("Change", (*) => "")
 myGui.OnEvent("Escape", (*) => myGui.Destroy())
 
 RunSearch(query) {
+	window_state := A_Args[1]
 	if (RegExMatch(query, "^https?://") || RegExMatch(query, "^[\w-]+\.[\w-]+")) {
 		; looks like a URL
-		Run('firefox.exe -new-window "' . query . '"')
+		;Run('firefox.exe -new-window "' . query . '"')
+		Run('firefox.exe ' . window_state . ' "' . query . '"')
 	} else {
 		; treat as search
-		Run('firefox.exe -new-window "https://www.google.com/search?q=' . UriEncode(query) . '"')
+		;Run('firefox.exe -new-window "https://www.google.com/search?q=' . UriEncode(query) . '"')
+		Run('firefox.exe ' . window_state . ' "https://www.google.com/search?q=' . UriEncode(query) . '"')
 	}
 	if (query != "") {
 		FileAppend(FormatTime(, "yyyy-MM-dd HH:mm") . " - " . query . "`n", "history.txt")
@@ -51,7 +56,3 @@ UriEncode(str) {
     }
     return result
 }
-
-
-; FormatTime, time, A_Now, dd.MM.yyyy H:mm
-; FileAppend, %time% %keyword% `n, history.txt
