@@ -7,11 +7,16 @@ myGui.BackColor := "282828"        ; gruvbox dark bg
 myGui.SetFont("s12 cebdbb2", "JetBrainsMono NF")
 
 search := myGui.AddEdit("x4 y4 w380 h20 -E0x200 Background282828 cebdbb2", "")
-search.SetFont("s12 cebdbb2", "JetBrainsMono NF")
+;search.SetFont("s12 cebdbb2", "JetBrainsMono NF")
 
-SendMessage(0x1501, 1, StrPtr("web search..."), search)
+SendMessage(0x1501, 1, StrPtr(Chr(0xf0239) . " web search..."), search)
+
+if (A_Args[1] = "-private-window"){
+	search := myGui.AddEdit("x4 y4 w380 h20 -E0x200 Background282828 cebdbb2", "")
+	SendMessage(0x1501, 1, StrPtr(Chr(0xf05f9) . " web search..."), search)
+}
+
 search.Focus()
-
 myGui.Show("xCenter y40 w400 h30")
 
 search.OnEvent("Change", (*) => "")
