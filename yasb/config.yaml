@@ -147,7 +147,7 @@ widgets:
     type: "yasb.weather.WeatherWidget"
     options:
       label: "<span>{icon}</span> {temp}"
-      api_key: "3bf4cf9a7c3f40d6b31174128242807"
+      api_key: "9be7d7f7379744ec8a0142623260911"
       update_interval: 600
       units: "imperial"
       hide_decimal: true

@@ -138,21 +138,6 @@
     background-color: var(--grey1);
 }
 
-.glazewm-workspaces .ws-btn.focused_populated {
-	 font-size: 10px;
-    height: 12px;
-	 width: 14px;
-    color: var(--accent);
-	 border-bottom: 2px solid var(--accent);
-}
-
-.glazewm-workspaces .ws-btn.focused_empty {
-	 font-size: 10px;
-    height: 12px;
-	 width: 14px;
-    color: var(--accent);
-	 border-bottom: 2px solid var(--accent);
-}
 
 .glazewm-workspaces .ws-btn.active_populated,
 .glazewm-workspaces .ws-btn.active_empty {
@@ -162,6 +147,15 @@
 	 width: 14px;
     color: var(--blue);
 	 border-bottom: 2px solid var(--blue);
+}
+
+.glazewm-workspaces .ws-btn.focused_populated,
+.glazewm-workspaces .ws-btn.focused_empty {
+	 font-size: 10px;
+    height: 12px;
+	 width: 14px;
+    color: var(--accent);
+	 border-bottom: 2px solid var(--accent);
 }
 
 /*POWER MENU WIDGET*/
